@@ -1,4 +1,5 @@
-1.Custom Dependency Injection
-2.Dapper setup
-3.Sql file add with dapper intregration
-4.StoreProcedure support
+## Features
+- Custom Dependency Injection
+- Dapper setup
+- Integration of SQL files with Dapper
+- Support for stored procedures
